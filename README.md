@@ -13,7 +13,7 @@ of training. Built as a working demonstration of one architectural claim:
 ```bash
 make demo            # athlete who missed 2 sessions; LLM overreaches, gets rejected, retry passes
 make demo-fallback   # proposer never complies -> rules-only plan + human-review flag
-make test            # 22 unit tests, stdlib + pytest only
+make test            # 28 unit tests, stdlib + pytest only
 make demo-live       # optional: real Claude proposer (pip install anthropic + ANTHROPIC_API_KEY)
 ```
 
