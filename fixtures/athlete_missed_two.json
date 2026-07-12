@@ -1,0 +1,235 @@
+{
+  "athlete": {
+    "name": "Maya K.",
+    "sport": "running (marathon build)",
+    "race_date": "2026-08-16",
+    "plan_start": "2026-07-13",
+    "notes": "Missed the weekend block (work travel). Feels fresh, eager to catch up."
+  },
+  "history": [
+    {
+      "date": "2026-06-15",
+      "kind": "rest",
+      "intensity": "rest",
+      "load": 0.0,
+      "status": "completed",
+      "note": ""
+    },
+    {
+      "date": "2026-06-16",
+      "kind": "intervals",
+      "intensity": "moderate",
+      "load": 55.0,
+      "status": "completed",
+      "note": ""
+    },
+    {
+      "date": "2026-06-17",
+      "kind": "run",
+      "intensity": "easy",
+      "load": 45.0,
+      "status": "completed",
+      "note": ""
+    },
+    {
+      "date": "2026-06-18",
+      "kind": "intervals",
+      "intensity": "hard",
+      "load": 70.0,
+      "status": "completed",
+      "note": ""
+    },
+    {
+      "date": "2026-06-19",
+      "kind": "run",
+      "intensity": "easy",
+      "load": 40.0,
+      "status": "completed",
+      "note": ""
+    },
+    {
+      "date": "2026-06-20",
+      "kind": "long_run",
+      "intensity": "hard",
+      "load": 90.0,
+      "status": "completed",
+      "note": ""
+    },
+    {
+      "date": "2026-06-21",
+      "kind": "run",
+      "intensity": "easy",
+      "load": 50.0,
+      "status": "completed",
+      "note": ""
+    },
+    {
+      "date": "2026-06-22",
+      "kind": "rest",
+      "intensity": "rest",
+      "load": 0.0,
+      "status": "completed",
+      "note": ""
+    },
+    {
+      "date": "2026-06-23",
+      "kind": "intervals",
+      "intensity": "moderate",
+      "load": 55.0,
+      "status": "completed",
+      "note": ""
+    },
+    {
+      "date": "2026-06-24",
+      "kind": "run",
+      "intensity": "easy",
+      "load": 45.0,
+      "status": "completed",
+      "note": ""
+    },
+    {
+      "date": "2026-06-25",
+      "kind": "intervals",
+      "intensity": "hard",
+      "load": 70.0,
+      "status": "completed",
+      "note": ""
+    },
+    {
+      "date": "2026-06-26",
+      "kind": "run",
+      "intensity": "easy",
+      "load": 40.0,
+      "status": "completed",
+      "note": ""
+    },
+    {
+      "date": "2026-06-27",
+      "kind": "long_run",
+      "intensity": "hard",
+      "load": 90.0,
+      "status": "completed",
+      "note": ""
+    },
+    {
+      "date": "2026-06-28",
+      "kind": "run",
+      "intensity": "easy",
+      "load": 50.0,
+      "status": "completed",
+      "note": ""
+    },
+    {
+      "date": "2026-06-29",
+      "kind": "rest",
+      "intensity": "rest",
+      "load": 0.0,
+      "status": "completed",
+      "note": ""
+    },
+    {
+      "date": "2026-06-30",
+      "kind": "intervals",
+      "intensity": "moderate",
+      "load": 55.0,
+      "status": "completed",
+      "note": ""
+    },
+    {
+      "date": "2026-07-01",
+      "kind": "run",
+      "intensity": "easy",
+      "load": 45.0,
+      "status": "completed",
+      "note": ""
+    },
+    {
+      "date": "2026-07-02",
+      "kind": "intervals",
+      "intensity": "hard",
+      "load": 70.0,
+      "status": "completed",
+      "note": ""
+    },
+    {
+      "date": "2026-07-03",
+      "kind": "run",
+      "intensity": "easy",
+      "load": 40.0,
+      "status": "completed",
+      "note": ""
+    },
+    {
+      "date": "2026-07-04",
+      "kind": "long_run",
+      "intensity": "hard",
+      "load": 90.0,
+      "status": "completed",
+      "note": ""
+    },
+    {
+      "date": "2026-07-05",
+      "kind": "run",
+      "intensity": "easy",
+      "load": 50.0,
+      "status": "completed",
+      "note": ""
+    },
+    {
+      "date": "2026-07-06",
+      "kind": "rest",
+      "intensity": "rest",
+      "load": 0.0,
+      "status": "completed",
+      "note": ""
+    },
+    {
+      "date": "2026-07-07",
+      "kind": "intervals",
+      "intensity": "moderate",
+      "load": 55.0,
+      "status": "completed",
+      "note": ""
+    },
+    {
+      "date": "2026-07-08",
+      "kind": "run",
+      "intensity": "easy",
+      "load": 45.0,
+      "status": "completed",
+      "note": ""
+    },
+    {
+      "date": "2026-07-09",
+      "kind": "intervals",
+      "intensity": "hard",
+      "load": 70.0,
+      "status": "completed",
+      "note": ""
+    },
+    {
+      "date": "2026-07-10",
+      "kind": "run",
+      "intensity": "easy",
+      "load": 40.0,
+      "status": "completed",
+      "note": ""
+    },
+    {
+      "date": "2026-07-11",
+      "kind": "long_run",
+      "intensity": "hard",
+      "load": 90.0,
+      "status": "missed",
+      "note": "missed \u2014 work travel"
+    },
+    {
+      "date": "2026-07-12",
+      "kind": "run",
+      "intensity": "easy",
+      "load": 50.0,
+      "status": "missed",
+      "note": "missed \u2014 work travel"
+    }
+  ]
+}
